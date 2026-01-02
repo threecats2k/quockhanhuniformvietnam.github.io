@@ -13,6 +13,8 @@ const htmlFiles = [
 
 // Common header pattern with i18n
 const headerTemplate = `    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+    <link rel="apple-touch-icon" href="images/favicon.svg">
     <link rel="canonical" href="https://dongtienhotel.store/">
     <script src="js/i18n.js" defer></script>
 </head>
