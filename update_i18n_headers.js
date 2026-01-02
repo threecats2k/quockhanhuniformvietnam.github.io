@@ -13,7 +13,7 @@ const htmlFiles = [
 
 // Common header pattern with i18n
 const headerTemplate = `    <link rel="stylesheet" href="css/styles.css">
-    <link rel="canonical" href="https://caugiayhotel.store/">
+    <link rel="canonical" href="https://dongtienhotel.store/">
     <script src="js/i18n.js" defer></script>
 </head>
 <body>
@@ -22,12 +22,17 @@ const headerTemplate = `    <link rel="stylesheet" href="css/styles.css">
         <div class="container">
             <div class="header-top">
                 <div class="logo">
-                    <h1 data-i18n="common.logo">QUỐC KHÁNH UNIFORM</h1>
-                    <p class="tagline" data-i18n="common.tagline">Chất lượng - Uy tín - Chuyên nghiệp</p>
+                    <a href="index.html" style="display: flex; align-items: center; gap: 10px; text-decoration: none;">
+                        <img src="images/logo_header.svg" alt="DONG TIEN HOTEL" style="max-height: 60px; width: auto;">
+                        <div class="logo-text">
+                            <h1 data-i18n="common.logo">DONG TIEN HOTEL</h1>
+                            <p class="tagline" data-i18n="common.tagline">Tận Tâm - Chất Lượng - Tiện Nghi</p>
+                        </div>
+                    </a>
                 </div>
                 <div class="header-contact">
-                    <a href="tel:02432212666" class="phone-link">📞 <span data-i18n="common.phone">024 32212666</span></a>
-                    <a href="contact.html" class="btn btn-primary" data-i18n="common.contactNow">Liên hệ ngay</a>
+                    <a href="tel:0917980188" class="phone-link">📞 <span data-i18n="common.phone">0917980188</span></a>
+                    <a href="contact.html" class="btn btn-primary" data-i18n="common.contactNow">Đặt phòng ngay</a>
                 </div>
             </div>
             <nav class="navbar">
@@ -47,4 +52,3 @@ console.log('All HTML files need:');
 console.log('1. Add <script src="js/i18n.js" defer></script> in <head>');
 console.log('2. Add data-i18n attributes to translatable elements');
 console.log('3. Update header/footer with i18n attributes');
-

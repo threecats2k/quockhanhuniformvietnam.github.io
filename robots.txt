@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://caugiayhotel.store/sitemap.xml
+Sitemap: https://dongtienhotel.store/sitemap.xml
 
 # Disallow admin or private directories (if any)
 # Disallow: /admin/
@@ -20,4 +20,3 @@ Allow: /
 
 # Crawl-delay (optional, uncomment if needed)
 # Crawl-delay: 1
-

@@ -1,30 +1,30 @@
 {
   "meta": {
     "index": {
-      "title": "CAUGIAY HST - Premium Accommodation Experience in Cau Giay, Hanoi",
-      "description": "CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY - Premium accommodation experience in Cau Giay, Hanoi. The perfect choice for short stays and business trips"
+      "title": "DONG TIEN HOTEL - Premium Accommodation Experience in Tay Ho, Hanoi",
+      "description": "DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY - Premium accommodation experience in Tay Ho, Hanoi. The perfect choice for short stays and business trips"
     },
     "about": {
-      "title": "About Us - CAUGIAY HST | About Our Company",
-      "description": "About CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY (CAUGIAY HST CO.,LTD). Legal information, mission and core values"
+      "title": "About Us - DONG TIEN HOTEL | About Our Company",
+      "description": "About DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY (DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY). Legal information, mission and core values"
     },
     "services": {
-      "title": "Services - CAUGIAY HST | Accommodation Services & Amenities",
-      "description": "CAUGIAY HST's accommodation services & amenities: Comfortable rooms, free Wi-Fi, 24/7 room service. Premium accommodation experience in Cau Giay, Hanoi"
+      "title": "Services - DONG TIEN HOTEL | Accommodation Services & Amenities",
+      "description": "DONG TIEN HOTEL's accommodation services & amenities: Comfortable rooms, free Wi-Fi, 24/7 room service. Premium accommodation experience in Tay Ho, Hanoi"
     },
     "contact": {
-      "title": "Contact - CAUGIAY HST | Booking & Consultation",
-      "description": "Contact CAUGIAY HST - Book a room or consult about accommodation services. Address: No. 18, Alley 6/41 Tran Quoc Hoan Street, Dich Vong Hau Ward, Cau Giay District, Hanoi. Phone: 024 32212666"
+      "title": "Contact - DONG TIEN HOTEL | Booking & Consultation",
+      "description": "Contact DONG TIEN HOTEL - Book a room or consult about accommodation services. Address: No. 66 Xuan Dieu Street, Tay Ho Ward, Hanoi City, Vietnam. Phone: 0917980188"
     },
     "privacy": {
-      "title": "Privacy Policy - CAUGIAY HST",
-      "description": "Privacy policy of CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY - Commitment to protecting customer information"
+      "title": "Privacy Policy - DONG TIEN HOTEL",
+      "description": "Privacy policy of DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY - Commitment to protecting customer information"
     }
   },
   "common": {
-    "logo": "CAUGIAY HST CO.,LTD",
+    "logo": "DONG TIEN HOTEL",
     "tagline": "Dedication - Quality - Comfort",
-    "phone": "024 32212666",
+    "phone": "0917980188",
     "contactNow": "Book Now",
     "nav": {
       "home": "Home",
@@ -37,9 +37,9 @@
       "menu": "Menu"
     },
     "footer": {
-      "companyDesc": "CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY - Premium accommodation experience in Cau Giay, Hanoi",
-      "address": "No. 18, Alley 6/41 Tran Quoc Hoan Street, Dich Vong Hau Ward, Cau Giay District, Hanoi",
-      "email": "cghotel1206@gmail.com",
+      "companyDesc": "DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY - Premium accommodation experience in Tay Ho, Hanoi",
+      "address": "No. 66 Xuan Dieu Street, Tay Ho Ward, Hanoi City, Vietnam",
+      "email": "dongtienhotel@gmail.com",
       "services": "Services",
       "info": "Information",
       "support": "Support",
@@ -49,7 +49,7 @@
       "wifi": "Free Wi-Fi",
       "aboutUs": "About Us",
       "companyInfo": "Company Information",
-      "copyright": "2024 CAUGIAY HST CO.,LTD. Tax ID: 0108599237"
+      "copyright": "2024 DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY. Tax ID: 0108523598"
     },
     "breadcrumb": {
       "home": "Home"
@@ -57,14 +57,14 @@
   },
   "index": {
     "hero": {
-      "title": "Premium Accommodation Experience in Cau Giay, Hanoi",
+      "title": "Premium Accommodation Experience in Tay Ho, Hanoi",
       "subtitle": "The perfect choice for short stays and business trips",
       "bookNow": "Book Now",
       "learnMore": "Learn More"
     },
     "about": {
-      "title": "Welcome to CAUGIAY HST",
-      "subtitle": "We are committed to providing you with an excellent accommodation experience with comfortable spaces, dedicated service and premium quality. At CAUGIAY HST, every detail is carefully crafted to ensure maximum customer satisfaction."
+      "title": "Welcome to DONG TIEN HOTEL",
+      "subtitle": "We are committed to providing you with an excellent accommodation experience with comfortable spaces, dedicated service and premium quality. At DONG TIEN HOTEL, every detail is carefully crafted to ensure maximum customer satisfaction."
     },
     "services": {
       "title": "Accommodation Services & Amenities",
@@ -86,12 +86,34 @@
       },
       "location": {
         "title": "Convenient Location",
-        "desc": "Located in the center of Cau Giay District, easy access to tourist attractions and business areas",
+        "desc": "Located in the center of Tay Ho District, easy access to tourist attractions and business areas",
         "detail": "Details →"
       }
     },
+    "rooms": {
+      "title": "Room Types",
+      "subtitle": "Explore our premium accommodation options",
+      "filterAll": "All",
+      "filterCapacity2": "Capacity: 2 people",
+      "filterCapacity4": "Capacity: 4 people",
+      "filterBedKing": "Bed type: King",
+      "filterBedQueen": "Bed type: Queen",
+      "viewDetails": "View Details",
+      "deluxeSea": {
+        "title": "Deluxe Lake View Room",
+        "price": "From 2,500,000 VND / night"
+      },
+      "presidential": {
+        "title": "Presidential Suite",
+        "price": "From 5,000,000 VND / night"
+      },
+      "standard": {
+        "title": "Premium Standard Room",
+        "price": "From 1,800,000 VND / night"
+      }
+    },
     "whyChoose": {
-      "title": "Why Choose CAUGIAY HST?",
+      "title": "Why Choose DONG TIEN HOTEL?",
       "dedication": {
         "title": "Dedicated Service",
         "desc": "Professional staff, always ready to serve with dedicated and attentive attitude"
@@ -106,7 +128,7 @@
       },
       "location": {
         "title": "Convenient Location",
-        "desc": "Located in the center of Cau Giay District, easy access to tourist attractions and business areas"
+        "desc": "Located in the center of Tay Ho District, easy access to tourist attractions and business areas"
       },
       "wifi": {
         "title": "Free Wi-Fi",
@@ -121,15 +143,19 @@
       "title": "Experience Premium Accommodation Today",
       "subtitle": "Contact us to book a room or learn more about our services",
       "contact": "Book Now",
-      "call": "Call: 024 32212666"
+      "call": "Call: 0917980188"
     }
   },
   "contact": {
     "pageTitle": "Contact Us",
-    "pageSubtitle": "We are ready to advise and support you",
+    "pageSubtitle": "We are always ready to listen and support you 24/7.",
     "breadcrumb": "Contact",
     "contactInfo": {
       "title": "Contact Information",
+      "subtitle": "Connect with us through the channels below.",
+      "addressLabel": "Address",
+      "phoneLabel": "Phone Number",
+      "emailLabel": "Email",
       "address": "📍 Address:",
       "phone": "📞 Phone:",
       "email": "📧 Email:",
@@ -138,60 +164,54 @@
       "workingHours": "24/7 - Accommodation services and customer support"
     },
     "map": {
-      "title": "Directions Map",
-      "address": "📍 No. 18, Alley 6/41 Tran Quoc Hoan Street, Dich Vong Hau Ward, Cau Giay District, Hanoi"
+      "title": "Find us on the map",
+      "address": "📍 No. 66 Xuan Dieu Street, Tay Ho Ward, Hanoi City, Vietnam"
     },
     "form": {
-      "title": "Send Booking/Consultation Request",
+      "title": "Send Request to Us",
+      "subtitle": "Fill in the form below and we will contact you as soon as possible.",
       "name": "Full Name *",
-      "namePlaceholder": "Enter your full name",
+      "namePlaceholder": "John Doe",
       "phone": "Phone Number *",
-      "phonePlaceholder": "Enter phone number",
+      "phonePlaceholder": "(+84) 123 456 789",
       "email": "Email",
-      "emailPlaceholder": "Enter email address",
-      "service": "Request Type",
-      "serviceSelect": "-- Select request type --",
-      "serviceBooking": "Room Booking",
-      "serviceConsultation": "Service Consultation",
-      "serviceOther": "Other",
-      "checkin": "Check-in Date (if booking)",
-      "checkinPlaceholder": "Select date",
-      "message": "Request Details *",
-      "messagePlaceholder": "Describe your requirements in detail...",
+      "emailPlaceholder": "email@example.com",
+      "message": "Message Content",
+      "messagePlaceholder": "What would you like to discuss...",
       "submit": "Send Request"
     },
     "modal": {
       "title": "Thank you for contacting us!",
-      "message": "We have received your booking/consultation request. Our staff will contact you soon.",
-      "note": "We typically respond within 24 hours.",
+      "message": "We have received your booking/consultation request. Our staff will contact you shortly.",
+      "note": "Typically we respond within 24 hours.",
       "button": "Got it"
     }
   },
   "about": {
-    "pageTitle": "About Us",
-    "pageSubtitle": "CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY (CAUGIAY HST CO.,LTD)",
+    "pageTitle": "About Our Company",
+    "pageSubtitle": "DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY (DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY)",
     "breadcrumb": "About",
     "intro": {
-      "title": "About CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY",
-      "desc": "CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY (CAUGIAY HST CO.,LTD) was established on January 23, 2019, specializing in short-term accommodation services (Hotel). We are committed to providing you with an excellent accommodation experience with comfortable spaces, dedicated service and premium quality."
+      "title": "About DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY",
+      "desc": "DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY (DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY) was established on November 23, 2018, specializing in short-term accommodation services (Hotels; Villas or apartments for short-term accommodation; Guesthouses, motels; Inns, shared rooms and similar short-term accommodation). We are committed to providing you with an excellent accommodation experience with comfortable spaces, dedicated service and premium quality."
     },
     "legal": {
       "title": "Legal Information",
       "name": "Full Name:",
-      "shortName": "Abbreviation:",
+      "shortName": "Abbreviated Name:",
       "taxID": "Tax ID:",
       "address": "Address:",
       "representative": "Representative:",
-      "foundingDate": "Establishment Date (Operation):",
+      "foundingDate": "Establishment Date:",
       "industry": "Main Industry:"
     },
     "mission": {
       "title": "Mission & Core Values",
       "missionTitle": "Mission",
-      "missionDesc": "We are committed to providing you with a premium accommodation experience with dedicated service, comfortable spaces and the highest quality of service. Every customer is treated with respect and careful attention.",
+      "missionDesc": "We are committed to providing you with a premium accommodation experience with dedicated service, comfortable spaces and the highest quality. Every customer is treated with respect and care.",
       "valuesTitle": "Core Values",
       "values": [
-        "Dedication: Professional staff, always ready to serve with dedicated and attentive attitude",
+        "Dedication: Professional staff, always ready to serve with a dedicated and attentive attitude",
         "Service Quality: Commitment to providing high-quality accommodation services with clean, comfortable and modern spaces",
         "Comfortable Space: Rooms fully equipped with amenities, spacious space creating absolute relaxation"
       ]
@@ -202,86 +222,125 @@
       "phone": "Phone:",
       "email": "Email:",
       "workingHours": "Service Hours:",
-      "hours": "24/7 - Accommodation services and customer support"
+      "hours": "24/7 - Accommodation and customer support services"
     }
   },
   "services": {
     "pageTitle": "Accommodation Services & Amenities",
-    "pageSubtitle": "Premium accommodation experience in Cau Giay, Hanoi",
+    "pageSubtitle": "Premium accommodation experience in Tay Ho, Hanoi",
     "breadcrumb": "Services",
+    "featured": {
+      "title": "Exceptional Amenities",
+      "subtitle": "At DONG TIEN HOTEL, we are committed to providing modern amenities and dedicated service, making every moment memorable.",
+      "spa": {
+        "title": "Spa & Massage Area",
+        "desc": "Relax and recharge with unique spa treatments",
+        "link": "View Details →"
+      },
+      "restaurant": {
+        "title": "Restaurant & Bar",
+        "desc": "Enjoy premium cuisine with fresh ingredients",
+        "link": "View Menu →"
+      },
+      "pool": {
+        "title": "Infinity Pool",
+        "desc": "Enjoy cool water and natural views from our high-altitude infinity pool",
+        "link": "Explore More →"
+      },
+      "gym": {
+        "title": "Gym & Yoga Studio",
+        "desc": "Modern equipment and professional yoga classes",
+        "link": "View Schedule →"
+      }
+    },
+    "other": {
+      "title": "Other Services",
+      "airport": {
+        "title": "Airport Shuttle",
+        "desc": "Luxurious, convenient and safe private car service"
+      },
+      "events": {
+        "title": "Event Hosting",
+        "desc": "Ideal venue for weddings, conferences and events"
+      },
+      "roomService": {
+        "title": "In-Room Dining",
+        "desc": "24/7 service meeting all guest requests"
+      },
+      "tours": {
+        "title": "Local Tours",
+        "desc": "Explore local beauty with our tailor-made tours"
+      }
+    },
     "rooms": {
       "title": "🛏️ Comfortable Rooms",
-      "desc": "Clean, modern rooms with full amenities, spacious space and natural light. Each room is fully equipped to ensure comfort and convenience for guests.",
-      "featuresTitle": "Room Amenities",
+      "desc": "Clean, modern rooms with full amenities, spacious space and natural light. Each room is fully equipped to ensure comfort and convenience.",
+      "featuresTitle": "Room Features",
       "features": [
         {
-          "title": "Comfortable Beds",
-          "desc": "Spacious double beds with high-quality mattresses, clean bed linens, ensuring good sleep"
+          "title": "Comfortable Bedding",
+          "desc": "Spacious double beds with high-quality mattresses, clean linens, ensuring good sleep"
         },
         {
-          "title": "Spacious Space",
-          "desc": "Rooms with spacious space, natural light, creating absolute relaxation"
+          "title": "Spacious Atmosphere",
+          "desc": "Rooms with ample space, natural light, creating absolute relaxation"
         },
         {
-          "title": "Clean & Hygienic",
-          "desc": "Rooms are thoroughly cleaned daily, ensuring clean and safe environment"
+          "title": "Cleanliness & Hygiene",
+          "desc": "Rooms are thoroughly cleaned daily, ensuring a safe and clean environment"
         },
         {
           "title": "Full Amenities",
-          "desc": "Wardrobe, work desk, TV, air conditioning, mini fridge and other necessary amenities"
+          "desc": "Wardrobe, desk, TV, air conditioning, mini fridge and other necessary amenities"
         }
       ]
     },
     "wifi": {
       "title": "📶 Free Wi-Fi",
-      "desc": "High-speed internet connection free throughout the hotel area, serving work and entertainment. Guests can work, study or enjoy online entertainment conveniently.",
+      "desc": "High-speed internet connection free throughout the hotel area, for work and entertainment. Guests can work, study or enjoy online entertainment conveniently.",
       "featuresTitle": "Features",
       "features": [
         "High-speed, stable internet 24/7",
-        "Coverage throughout the hotel area",
+        "Coverage throughout the hotel",
         "Free for all guests",
         "High security, safe for work"
       ]
     },
     "service": {
       "title": "🕐 24/7 Room Service",
-      "desc": "Professional staff ready to serve you 24/7 with dedicated and attentive attitude. All your requests are met quickly and efficiently.",
+      "desc": "Professional staff ready to serve you 24/7 with a dedicated and attentive attitude. All requests are met quickly and efficiently.",
       "featuresTitle": "Services Provided",
       "features": [
         "Flexible booking and check-in/check-out support",
-        "Daily room cleaning service",
+        "Daily housekeeping service",
         "24/7 customer support via phone",
-        "Consultation and support on locations, transportation"
+        "Consultation on locations and transportation"
       ]
     },
     "location": {
       "title": "📍 Convenient Location",
-      "desc": "Located in the center of Cau Giay District, easy access to tourist attractions and business areas. Convenient location for both tourists and business travelers.",
+      "desc": "Located in the center of Tay Ho District, easy access to tourist attractions and business areas. Convenient for both leisure and business travelers.",
       "advantagesTitle": "Location Advantages",
       "advantages": [
-        "Near city center, easy to move around",
+        "Near city center, easy to get around",
         "Close to tourist attractions, shopping and entertainment",
-        "Convenient for business travelers, near business areas",
-        "Easy access to public transportation"
+        "Convenient for business, near major business hubs",
+        "Easy access to public transport"
       ]
-    },
-    "ctaTitle": "Need to Book or Consult?",
-    "ctaDesc": "Contact us to book a room or learn more about our services",
-    "ctaContact": "Book Now",
-    "ctaCall": "Call: 024 32212666"
+    }
   },
   "companyInfo": {
     "pageTitle": "Company Information",
     "pageSubtitle": "Business registration and legal information",
-    "breadcrumb": "Company Information",
+    "breadcrumb": "Company Info",
     "businessInfo": {
-      "title": "Business Registration Information",
+      "title": "Business Registration Details",
       "labels": {
         "nameVi": "Company Name (Vietnamese):",
         "nameEn": "Company Name (English):",
         "abbreviation": "Abbreviation:",
-        "taxId": "Tax ID (MST):",
-        "activityDate": "Activity Date:",
+        "taxId": "Tax ID:",
+        "activityDate": "Operation Date:",
         "status": "Business Status:",
         "managedBy": "Managed By:",
         "taxAddress": "Tax Address:",
@@ -289,21 +348,33 @@
         "phone": "Phone:",
         "email": "Email:"
       },
+      "nameVi": "CÔNG TY CỔ PHẦN PHÁT TRIỂN THƯƠNG MẠI VÀ DỊCH VỤ ĐỒNG TIẾN",
+      "nameEn": "DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY",
+      "abbreviation": "DONG TIEN HOTEL",
+      "taxId": "0108523598",
+      "activityDate": "2018-11-23",
+      "status": "Active",
+      "managedBy": "Tay Ho District Tax Department",
+      "taxAddress": "No. 66 Xuan Dieu Street, Tay Ho Ward, Hanoi City, Vietnam",
+      "headquarters": "No. 66 Xuan Dieu Street, Tay Ho Ward, Hanoi City, Vietnam",
+      "phone": "0917980188",
+      "email": "dongtienhotel@gmail.com",
+      "representative": "NGUYEN VAN THANH",
       "statusActive": "Active"
     },
     "businessActivities": {
       "title": "Business Industry Information",
       "mainIndustry": {
         "label": "Main Industry:",
-        "value": "Short-term accommodation services (Hotel)"
+        "value": "Short-term accommodation services"
       },
       "activityAreas": {
-        "label": "Activity Areas:",
+        "label": "Fields of Activity:",
         "items": [
-          "Short-term accommodation services",
-          "Room rental",
-          "24/7 room service",
-          "Hotel amenities (Wi-Fi, room service)"
+          "Hotels",
+          "Villas or apartments for short-term accommodation",
+          "Guesthouses, motels",
+          "Inns, shared rooms and similar short-term accommodation"
         ]
       }
     },
@@ -315,14 +386,75 @@
       },
       "website": {
         "label": "Website:",
-        "value": "https://caugiayhotel.store"
+        "value": "https://dongtienhotel.store"
       }
     },
     "cta": {
       "title": "Need to Contact Us?",
       "desc": "We are ready to consult and support you",
       "contact": "Contact Now",
-      "call": "Call: 024 32212666"
+      "call": "Call: 0917980188"
     }
+  },
+  "gallery": {
+    "pageTitle": "Gallery",
+    "pageSubtitle": "Discover the elegance and premium amenities at our hotel.",
+    "breadcrumb": "Gallery",
+    "filterAll": "All",
+    "filterInterior": "Interior",
+    "filterExterior": "Exterior",
+    "filterAmenities": "Amenities",
+    "filterVideo": "Video",
+    "items": {
+      "presidential": {
+        "title": "Luxurious Presidential Suite"
+      },
+      "poolView": {
+        "title": "Sunset Pool View"
+      },
+      "lounge": {
+        "title": "Elegant Lounge Area"
+      },
+      "videoTour": {
+        "title": "Full Hotel Video Tour"
+      },
+      "bathroom": {
+        "title": "Modern Bath Amenities"
+      },
+      "garden": {
+        "title": "Lush Green Garden"
+      },
+      "bar": {
+        "title": "Premium Bar"
+      },
+      "gym": {
+        "title": "Fully Equipped Gym"
+      },
+      "restaurant": {
+        "title": "Asian-European Restaurant"
+      },
+      "exteriorNight": {
+        "title": "Hotel Exterior at Night"
+      },
+      "spa": {
+        "title": "Relaxing Spa"
+      },
+      "roomAmenities": {
+        "title": "In-room Amenities"
+      }
+    }
+  },
+  "booking": {
+    "pageTitle": "Booking System",
+    "pageSubtitle": "Experience luxury and book your exclusive stay safely.",
+    "breadcrumb": "Booking",
+    "steps": {
+      "selectDate": "Select Date",
+      "selectRoom": "Select Room",
+      "guestInfo": "Guest Info",
+      "payment": "Payment"
+    },
+    "widgetTitle": "1. Select Check-in and Check-out dates",
+    "continue": "Continue"
   }
 }

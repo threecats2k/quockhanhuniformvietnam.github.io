@@ -1,0 +1,10 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Shape -->
+    <path d="M16 2 L28 16 L16 30 L4 16 Z" fill="#FFC107" />
+    
+    <!-- Sophisticated 'D' part -->
+    <path d="M14 10 V22 C18 22 20 19 20 16 C20 13 18 10 14 10 Z" fill="#2d8650" />
+    
+    <!-- Accent line for 'T' -->
+    <rect x="11" y="15" width="10" height="2" fill="#FFC107" />
+</svg>
